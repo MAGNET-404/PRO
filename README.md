@@ -7,19 +7,15 @@
 
 [❄️]--> LOCK ID REMOVE ✴️
 
-[❄️]--> RANDOM CLONE
+[❄️]--> FILE CLONE
 
 [❄️]--> ALL UPDATE METHOD WORKING 
 
-[❄️]--> JOIN OUR MESSENGER GROUP
-
--------->  https://m.me/j/Abb_sZmHtTs3GXfH/
  <--×🔶×--> 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 <--×🔶×--> 👇
- 
 
 rm -rf PRO
 
-git clone --depth=1        https://github.✴️com/MAGNET-404/PRO✴️.git
+git clone --depth=1        https://github.com✴️/MAGNET-404/PRO.✴️git
 
 git pull
 
@@ -27,5 +23,8 @@ cd PRO
 
 python MAGNET✴️.py
 =--------------------------------------------------------------->
+[☣️]--> USER NAME  : MAGNET
 
+[☣️]--> PASSWORD  : 404
+=--------------------------------------------------------------->
 ⚠️-× REMOVE<>EMOJI••✴️••THEN RUN-->
